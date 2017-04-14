@@ -1,4 +1,4 @@
 # hello-world
 How to use GitHub Tutorial
 
-Just another repository
+Hi my name is Bimo
